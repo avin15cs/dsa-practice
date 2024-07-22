@@ -33,5 +33,7 @@ target/
 # Ignore build directory
 build/
 
+*.iml
+
 # Ignore Maven wrapper files
 .mvn/
